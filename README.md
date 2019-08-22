@@ -4,7 +4,7 @@
 
 - Windows 10
 
-## Setup procedure
+## Setup Local k8s
 
 1. Enable Hyper-V
     1. Enable Hyper-V in BIOS
