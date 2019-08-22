@@ -1,4 +1,16 @@
 # k8s_sample
 
+## Environment
+
+- Windows 10
+
+## Setup procedure
+
+1. Enable Hyper-V
+    1. Enable Hyper-V in BIOS
+    1. Enable Hyper-V in Windows features
 1. Install Docker for windows
-https://docs.docker.com/docker-for-windows/install/
+    - reference : https://docs.docker.com/docker-for-windows/install/
+1. Enable k8s
+    - Right click `Docker for Windows` > `Settings` > `Kubernetes`
+      - check `Enable kubernetes`
